@@ -1,7 +1,7 @@
 {
-  "name": "pwd",
+  "name": "learn-vue",
   "version": "1.0.0",
-  "description": "learn vue",
+  "description": "for learning vue",
   "author": "zuopan",
   "private": true,
   "scripts": {
